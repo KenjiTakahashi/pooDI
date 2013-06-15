@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DITests", "DITests\DITests.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Confrontation", "Confrontation\Confrontation.csproj", "{65F4D8A2-33BB-423A-8460-975FD499C8EC}"
 EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "Docs", "Docs\Docs.shfbproj", "{A615A382-37E3-4B84-922F-5E640E639EB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,11 +27,12 @@ Global
 		{65F4D8A2-33BB-423A-8460-975FD499C8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65F4D8A2-33BB-423A-8460-975FD499C8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65F4D8A2-33BB-423A-8460-975FD499C8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A615A382-37E3-4B84-922F-5E640E639EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A615A382-37E3-4B84-922F-5E640E639EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A615A382-37E3-4B84-922F-5E640E639EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A615A382-37E3-4B84-922F-5E640E639EB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(Performance) = preSolution
-		HasPerformanceSessions = true
 	EndGlobalSection
 EndGlobal
